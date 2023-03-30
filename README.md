@@ -5,7 +5,7 @@ Ranging from website creation, logo design, card design, and interior design.
 Here at Dutchel, you get top-notch designs for your company and promotional ideas.
 
 ## HOSTED SITE
-To view the deployed site, follow this <a href="https://nyongmercy.github.io/Design_Agency/">Link</a>
+To view the deployed site, follow this <a href="https://nyongmercy.github.io/Dutchel_Agency/">Link</a>
 
 ## Services
 We transform our various clients ideas into webpages, interior designs, cards, and logos to represent what they stand for.
